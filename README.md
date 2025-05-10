@@ -19,12 +19,8 @@ Include the files used:
 **washington.csv
 *readme.md
 
+### How To Contribute
+I don't want you to contribute. Ha!
 
-### Credits
-Cloned from https://github.com/udacity/pdsnd_github.git
-Bike Project derived from: https://github.com/patrickbloomingdale/Udacity-Project-Explore-US-Bikeshare-Data
-
-referred to https://stackoverflow.com/questions/19408087/how-to-do-user-input-error-handling-in-python 
-as an example of how to do error handling in my script.
-
-Added descriptive statitic on how many NaNs were in a dataset similar to https://stackoverflow.com/questions/26266362/how-do-i-count-the-nan-values-in-a-column-in-pandas-dataframe
+### License
+add later
