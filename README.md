@@ -1,19 +1,24 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
 8 MAY 2025
 
 ### Project Title
-Udacity Bikeshare GIT project
+My Udacity Bikeshare GIT project
 
 ### Description
-This project 
+This project is intended to:
 *demonstrates a Python code to import US bike share data
 *answers interesting questions about it by computing descriptive statistics
 *The script also takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-Include the files used
+Include the files used:
+*bikeshare.py
+*.gitignore
+**Chicago.csv
+**New_York.csv
+**washington.csv
+*readme.md
+
 
 ### Credits
 Cloned from https://github.com/udacity/pdsnd_github.git
