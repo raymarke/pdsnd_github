@@ -177,7 +177,7 @@ def main():
         elif restart.lower() == 'no':
             return False
         else:
-            print('your input was malformed, program will terminate.')
+            print('your input was malformed, program will terminate.  I am the terminator!!!.')
             return False
 
 if __name__ == "__main__":
