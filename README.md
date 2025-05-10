@@ -49,9 +49,10 @@ SOFTWARE.
 
 ### Credits
 Cloned from [Udacity](https://github.com/udacity/pdsnd_github.git)
-Bike Project derived from [here] (https://github.com/patrickbloomingdale/Udacity-Project-Explore-US-Bikeshare-Data)
 
-referred to [this resource] (https://stackoverflow.com/questions/19408087/how-to-do-user-input-error-handling-in-python) 
+Bike Project derived from [here](https://github.com/patrickbloomingdale/Udacity-Project-Explore-US-Bikeshare-Data)
+
+referred to [this resource](https://stackoverflow.com/questions/19408087/how-to-do-user-input-error-handling-in-python) 
 as an example of how to do error handling in my script.
 
-Added descriptive statitic on how many NaNs were in a dataset similar to [this resource] (https://stackoverflow.com/questions/26266362/how-do-i-count-the-nan-values-in-a-column-in-pandas-dataframe)
+Added descriptive statitic on how many NaNs were in a dataset similar to [this resource](https://stackoverflow.com/questions/26266362/how-do-i-count-the-nan-values-in-a-column-in-pandas-dataframe)
