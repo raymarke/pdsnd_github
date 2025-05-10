@@ -15,9 +15,9 @@ import numpy as np
 import datetime
 
 
-CITY_DATA = { 'Chicago': 'chicago.csv',
-              'New York City': 'new_york_city.csv',
-              'Washington': 'washington.csv' }
+CITY_DATA = { 'Chicago': './data/chicago.csv',
+              'New York City': './data/new_york_city.csv',
+              'Washington': './data/washington.csv' }
 #data is for Jan - Jun
 month_list = ['January', 'February', 'March', 'April','May','June','All']
 my_days = ['Sunday', 'Monday','Tuesday', 'Wednesday', 'Thursday','Friday', 'Saturday', 'All']
@@ -78,7 +78,6 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
-
     df = pd.read_csv(CITY_DATA[city]) #load the data frame as directed
     filtered_df = df
     if month != 'All':
@@ -190,7 +189,7 @@ def main():
         elif restart.lower() == 'no':
             return False
         else:
-            print('your input was malformed, program will terminate.')
+            print('your input was malformed, program will terminate.  I am the terminator!!!.')
             return False
 
 if __name__ == "__main__":
