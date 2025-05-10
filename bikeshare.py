@@ -1,3 +1,13 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+File: bikeshare.py
+Description: This script does something related to sharing bikes in big cities.
+Author: Mark Ray
+Date: 2025-05-10
+Version: 1.0
+"""
+
 
 import time
 import pandas as pd
